@@ -4,4 +4,4 @@ Popular demand dictated that I release somewhat regular videos during it's devel
 Could be compatible with all versions of Spigot following MC 1.2, depending on the blocks used. I don't see myself using any 1.9+ blocks.
 
 ## Installation
-Uses Maven for dependency management. Clone the repository and package it into a useable jar with `mvn package`.
+Uses Maven for dependency management. Clone the repository and package it into a usable jar with `mvn package`.
