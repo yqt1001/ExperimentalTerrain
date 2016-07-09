@@ -4,7 +4,7 @@ Popular demand dictated that I release somewhat regular videos during it's devel
 Could be compatible with all versions of Spigot following MC 1.2, depending on the blocks used. I don't see myself using any 1.9+ blocks.
 
 ## Installation
-Uses Maven for dependency management. Clone the repository and package it into a useable jar with `mvn package`.
+Uses Maven for dependency management. Clone the branch `git clone -b ep1 --single-branch https://github.com/yqt1001/ExperimentalTerrain.git` and package it into a usable jar with `mvn package`.
 
 ## Episode 1
 In this episode very little code was written. No seriously, this branch may as well be empty. :p Either way, the code in this branch is a functional void world generator.
