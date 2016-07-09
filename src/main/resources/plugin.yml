@@ -1,0 +1,6 @@
+name: ExperimentalTerrain
+main: mc.yqt.experimentalterrain.ExperimentalTerrain
+version: 1.0
+author: yqt1001
+load: startup
+commands:
